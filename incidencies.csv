@@ -1,0 +1,50 @@
+﻿fila_csv,tipus,camp,valor_original,accio
+6,Camp buit,tipus_activitat,   ,Rebutjat
+6,Format numèric invàlid,participants,2.5,Rebutjat
+9,Camp buit,centre,   ,Rebutjat
+10,Format numèric invàlid,durada_min,NaN?,Rebutjat
+10,Data invàlida,data,2025-00-12,Rebutjat
+13,Data invàlida,data,01-15-2025,Rebutjat
+20,Format numèric invàlid,participants,"3,0",Rebutjat
+20,Valor no positiu,durada_min,-12.5,Rebutjat
+23,Data invàlida,data,2025-11-31,Rebutjat
+24,Data invàlida,data,2025.06.10,Rebutjat
+26,Format numèric invàlid,durada_min,"1,2,3",Rebutjat
+26,Data invàlida,data,2025-02-30,Rebutjat
+33,Format numèric invàlid,participants,??,Rebutjat
+33,Format numèric invàlid,durada_min,,Rebutjat
+41,Camp buit,centre,   ,Rebutjat
+41,Format numèric invàlid,participants,1O,Rebutjat
+45,Camp buit,activitat,   ,Rebutjat
+45,Camp buit,tipus_activitat,,Rebutjat
+45,Valor negatiu,participants,0,Rebutjat
+49,Camp buit,centre,,Rebutjat
+50,Format numèric invàlid,durada_min,gratis,Rebutjat
+50,Data invàlida,data,2025/13/01,Rebutjat
+51,Format numèric invàlid,participants,4x,Rebutjat
+51,Format numèric invàlid,durada_min,12 unitats,Rebutjat
+58,Valor negatiu,participants,-1,Rebutjat
+58,Format numèric invàlid,durada_min,15..90,Rebutjat
+59,Camp buit,activitat,,Rebutjat
+59,Format numèric invàlid,participants,tres,Rebutjat
+63,Camp buit,centre,,Rebutjat
+63,Valor negatiu,participants,-4,Rebutjat
+65,Data invàlida,data,2025-14-03,Rebutjat
+74,Format numèric invàlid,participants,dos,Rebutjat
+74,Valor no positiu,durada_min,0,Rebutjat
+76,Camp buit,activitat,,Rebutjat
+82,Format numèric invàlid,durada_min,aprox. 25,Rebutjat
+82,Data invàlida,data,31/04/2025,Rebutjat
+86,Format numèric invàlid,durada_min,--,Rebutjat
+86,Data invàlida,data,ahir,Rebutjat
+88,Camp buit,tipus_activitat,,Rebutjat
+88,Format numèric invàlid,participants,12 unitats,Rebutjat
+91,Format numèric invàlid,participants,,Rebutjat
+91,Format numèric invàlid,durada_min,abc,Rebutjat
+97,Data invàlida,data,,Rebutjat
+100,Camp buit,tipus_activitat,,Rebutjat
+100,Camp buit,centre,,Rebutjat
+104,Format numèric invàlid,durada_min,4/5,Rebutjat
+108,Camp buit,tipus_activitat,   ,Rebutjat
+109,Data invàlida,data,2025-02-29,Rebutjat
+117,Camp buit,activitat,   ,Rebutjat

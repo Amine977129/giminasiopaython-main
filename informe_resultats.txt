@@ -1,0 +1,26 @@
+﻿=========================================
+INFORME EXECUTIU - GIMNÀS I FITNESS (AC4)
+=========================================
+Data de generació: 2026-10-31 18:17
+Cobertura: 90 / 120 registres vàlids (30 rebutjats)
+
+INDICADORS GLOBALS:
+- Total registres inicials: 120
+- Total registres vàlids: 90
+- Total registres rebutjats: 30
+- Suma total participants: 3534
+- Durada mitjana per activitat: 107.16 min
+
+DESGLOSSAMENT PER TIPUS D'ACTIVITAT:
+- Quota: 483
+- Entrenament personal: 908
+- Serveis: 734
+- Instal·lacions: 782
+- Classe dirigida: 627
+
+DESGLOSSAMENT PER CENTRE:
+- Girona: 779
+- Terrassa: 910
+- Tarragona: 486
+- Barcelona: 793
+- Mataró: 566
