@@ -1,7 +1,7 @@
 ﻿=========================================
-INFORME EXECUTIU - GIMNÀS I FITNESS (AC4)
-=========================================
-Data de generació: 2026-10-31 18:17
+INFORME EXECUTIU - GIMNÀS I FITNESS 
+
+Data de generació: 2026-11-02 23:28
 Cobertura: 90 / 120 registres vàlids (30 rebutjats)
 
 INDICADORS GLOBALS:
